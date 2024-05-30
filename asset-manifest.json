@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ClipClash/static/css/main.295c6c29.css",
+    "main.js": "/ClipClash/static/js/main.3c4c060a.js",
+    "static/media/video2.mp4": "/ClipClash/static/media/video2.f25065386de52f67decf.mp4",
+    "static/media/video4.mp4": "/ClipClash/static/media/video4.265f8373844db09c29a4.mp4",
+    "static/media/video1.mp4": "/ClipClash/static/media/video1.087492876498b717b80b.mp4",
+    "static/media/video3.mp4": "/ClipClash/static/media/video3.b847d15d149259ce1b42.mp4",
+    "index.html": "/ClipClash/index.html",
+    "main.295c6c29.css.map": "/ClipClash/static/css/main.295c6c29.css.map",
+    "main.3c4c060a.js.map": "/ClipClash/static/js/main.3c4c060a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.295c6c29.css",
+    "static/js/main.3c4c060a.js"
+  ]
+}
